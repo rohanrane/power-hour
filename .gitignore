@@ -1,0 +1,12 @@
+#File Types
+*.mp3
+*.pyc
+
+#Folders
+songs/
+.vscode/
+__pycahce__/
+
+#Virtual Environments
+.venv/
+.env/

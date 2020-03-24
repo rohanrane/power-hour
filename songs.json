@@ -1,0 +1,11 @@
+[
+    {
+      "name": "don't_leave",
+      "path": "songs/don't_leave.mp3",
+      "mixin": true
+    }, {
+      "name": "smoke_filled_room",
+      "path": "songs/smoke_filled_room.mp3",
+      "mixin": false
+    }
+  ]
